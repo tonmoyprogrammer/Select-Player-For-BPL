@@ -1,0 +1,16 @@
+.mybtn1{
+    padding:10px 20px;
+    box-shadow: 1px 1px 1px 1px solid white;
+    text-align: center;
+    border-radius: 17px;
+    font-size: 18px;
+    background-color: #13131310;
+}
+.mybtn{
+    padding:10px 20px;
+    box-shadow: 1px 1px 1px 1px solid white;
+    text-align: center;
+    border:1px solid gray;
+    border-radius: 17px;
+    font-size: 18px;
+}
